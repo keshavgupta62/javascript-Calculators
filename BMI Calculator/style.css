@@ -1,0 +1,19 @@
+div {
+    width: 500px;
+    background-color: yellow;
+    margin: auto;
+    padding-left: 30px;
+    padding-top: 30px;
+}
+#calculate {
+    height: 30px;
+    width: 90px;
+    align-items: center;
+}
+#calculate:hover {
+    background-color:antiquewhite;
+    font-weight: bolder;
+}
+#result {
+    color: blue;
+}
